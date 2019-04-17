@@ -15,6 +15,6 @@ This directory contains the Grub 2.0 boot records that are used by Rufus
   Rufus processes when writing the MBR.
   Instead, the byte array from src/ms-sys/inc/mbr_grub2.h (whose content is identical)
   is what Rufus uses. If you modify these files, be mindful that you may also need
-  to update the array in mbr_grub2.h.
+  to update the array in mbr_grub2.h. ь оироим т  г гг 
 
 * For details, see src/format.c, src/msys/br.c and src/msys/inc/mbr_grub2.h.
